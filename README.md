@@ -60,7 +60,7 @@ Comparison between multiple routes for optimization
 
 Installation & Setup:-
 # Clone the repository
-git clone https://github.com/Hevinsh2511/CarbonWarrior
+git clone https://github.com/Hevinsh2511/carbonwarrior.git
 
 # Navigate to project folder
 cd CarbonWarrior
